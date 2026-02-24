@@ -40,8 +40,8 @@ Using Laplacian Operator
 </br> 
 
 ## Program:
-### Developed By   :  Nirmal  N
-### Register Number: 212223240107
+### Developed By   :  SHARAN G
+### Register Number: 212223230203
 </br>
 
 ### 1. Smoothing Filters
